@@ -1,4 +1,4 @@
-# Arduino-nRF24-2.4GHz-Channel-Sweeper  <img src="https://img.shields.io/badge/ARDUINO-Nano-blue?logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Status-Experimental-orange"/>
+# Arduino-nRF24-2.4GHz-Channel-Sweeper  <img src="https://img.shields.io/badge/ARDUINO-Nano-blue?logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/status-completed-brightgreen?logo=checkmarx"/>
 Arduino project using an nRF24L01 to generate a constant carrier and perform a 2.4 GHz channel sweep for RF testing and experimentation purposes.
 
 <br>
